@@ -14,12 +14,12 @@ h1{
     border: 3px solid black;
 }
 
-.square ul{
-    list-style: none;
+.mail-container ul{
+    list-style-type: none;
     line-height: 50px;
 }
 
-#generate{
+#generate-btn{
     padding: 10px;
     border-radius: 10px;
 }
