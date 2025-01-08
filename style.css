@@ -1,0 +1,31 @@
+body{
+    background-color: cadetblue;
+}
+
+h1{
+    text-align: center;
+}
+
+.mail-container{
+    min-height: 500px;
+    max-width: 300px;
+    background-color: white;
+    margin: 0 auto;
+    border: 3px solid black;
+}
+
+.square ul{
+    list-style: none;
+    line-height: 50px;
+}
+
+#generate{
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.btn{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
