@@ -17,6 +17,7 @@ h1{
 .mail-container ul{
     list-style-type: none;
     line-height: 50px;
+    font-size: 17px;
 }
 
 #generate-btn{
